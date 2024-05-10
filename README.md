@@ -221,6 +221,8 @@ The dashboard displays detailed information about memory usage, including total 
 
 <img width="722" alt="image" src="https://github.com/linuxautobot/node-docker-app/assets/13101462/af6970a4-5868-4cad-9b0c-de24ab3e7a99">
 
+[Documentation](https://docs.google.com/document/d/e/2PACX-1vSIXVNGAU2p5u_hmtZNgMK0J12JspYbyr83Mbyp0vXo8WchqimENvAJ7y0QJ_HfsytmcbXn42M4gBZx/pub)
+
 
 Deploying the Entire Infrastructure on a standalone Kubernetes Cluster on local: Adding Deployment Files and Creating Resources for the Cluster.
 
